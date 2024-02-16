@@ -1,0 +1,14 @@
+D:\mphasis\Feb16\EvenOdd\EvenOdd\bin\Debug\net6.0\EvenOdd.exe
+D:\mphasis\Feb16\EvenOdd\EvenOdd\bin\Debug\net6.0\EvenOdd.deps.json
+D:\mphasis\Feb16\EvenOdd\EvenOdd\bin\Debug\net6.0\EvenOdd.runtimeconfig.json
+D:\mphasis\Feb16\EvenOdd\EvenOdd\bin\Debug\net6.0\EvenOdd.dll
+D:\mphasis\Feb16\EvenOdd\EvenOdd\bin\Debug\net6.0\EvenOdd.pdb
+D:\mphasis\Feb16\EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis\Feb16\EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.AssemblyInfoInputs.cache
+D:\mphasis\Feb16\EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.AssemblyInfo.cs
+D:\mphasis\Feb16\EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.csproj.CoreCompileInputs.cache
+D:\mphasis\Feb16\EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.dll
+D:\mphasis\Feb16\EvenOdd\EvenOdd\obj\Debug\net6.0\refint\EvenOdd.dll
+D:\mphasis\Feb16\EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.pdb
+D:\mphasis\Feb16\EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.genruntimeconfig.cache
+D:\mphasis\Feb16\EvenOdd\EvenOdd\obj\Debug\net6.0\ref\EvenOdd.dll
